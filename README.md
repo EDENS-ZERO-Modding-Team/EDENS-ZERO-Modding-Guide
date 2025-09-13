@@ -1,4 +1,4 @@
-# EDENS ZERO - Modding Hub
+# EDENS ZERO - Modding Guide
 
 ![EDENS ZERO Wiki Interface](https://github.com/user-attachments/assets/aaf3128e-e0d8-48f6-8414-26e3aaf580a9)
 
